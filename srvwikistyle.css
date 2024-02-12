@@ -1,0 +1,50 @@
+/* Style Sheet for Consistent Styling Across HTML Documents */
+
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(245, 245, 245);
+    margin: 0;
+    padding: 0;
+}
+
+/* Container styling for segments of content */
+.container {
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Header 1 styling for main titles */
+h1 {
+    color: rgb(51, 51, 51);
+    font-size: 24px;
+}
+
+/* Header 2 styling for subtitles */
+h2 {
+    font-size: 20px;
+}
+
+/* Paragraph styling for body text */
+p {
+    color: rgb(119, 119, 119);
+    font-size: 16px;
+}
+
+/* Button styling for calls to action */
+.button {
+    background-color: rgb(76, 175, 80);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 5px;
+}
